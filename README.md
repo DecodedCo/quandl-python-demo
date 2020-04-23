@@ -1,8 +1,7 @@
 # quandl-python-demo
 A notebook to be used as a python demo in the Data Mindset.
 
-This repo populates the Binder at https://mybinder.org/v2/gh/DecodedCo/quandl-python-demo/master
-
+This repo populates the Binder here: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DecodedCo/quandl-python-demo/master)
 
 Intended use is running the code, then running `data.tail()` and then `data.plot()` in the two empty cells provided.
 
