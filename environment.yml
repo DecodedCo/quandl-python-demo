@@ -1,0 +1,7 @@
+name: decision-tree-environment
+dependencies:
+  - matplotlib
+  - numpy
+  - pandas
+  - quandl
+  - fbprophet
